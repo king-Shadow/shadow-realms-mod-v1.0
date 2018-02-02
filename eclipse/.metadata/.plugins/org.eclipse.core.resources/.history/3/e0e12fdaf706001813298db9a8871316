@@ -1,0 +1,10 @@
+package com.kingshadow.shadowrealms.util;
+
+public class Reference {
+
+	public static final string MOD_ID = "sr";
+	public static final string NAME = "Shadow Realms";
+	public static final string VERSION = "1.0";
+	public static final string ACCEPTED_VERSIONS = "1.7.10"
+
+}
