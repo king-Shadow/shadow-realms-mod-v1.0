@@ -1,0 +1,6 @@
+package com.kingshadow.shadowrealms;
+
+@Mod()
+public class Main {
+
+}
